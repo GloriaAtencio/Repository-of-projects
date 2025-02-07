@@ -1,3 +1,107 @@
 # FlexiHear: Prótesis Auditiva Personalizada Mediante Impresión 3D
 
 **Optimización de la Adaptabilidad y Reducción de Costos**
+
+### Autores:
+- **Atencio Inga, Gloria Elvira**
+- **Aponte Diaz, Janella Kiomi**
+
+**FABCORE - PUCP**  
+**Diciembre 2024**  
+
+## 📌 Índice
+1. [Introducción](#introducción)
+2. [Estado del Arte](#estado-del-arte)
+3. [Requerimientos de Diseño](#requerimientos-de-diseño)
+4. [Materiales](#materiales)
+5. [Procedimiento](#procedimiento)
+6. [Resultados](#resultados)
+7. [Conclusiones](#conclusiones)
+8. [Limitaciones](#limitaciones)
+9. [Referencias](#referencias)
+
+---
+
+## Introducción
+Más del 5% de la población mundial (430 millones de personas) padece una pérdida de audición discapacitante y requiere rehabilitación. Se estima que para 2050 esa cifra podría superar los 700 millones. La presbiacusia, la exposición prolongada al ruido y ciertas condiciones médicas contribuyen a esta problemática.
+
+El acceso a audífonos es limitado en países de ingresos bajos y medianos debido a su alto costo. Para abordar esta necesidad, el presente proyecto desarrolla una prótesis auditiva personalizada mediante impresión 3D, asegurando adaptabilidad anatómica y reducción de costos.
+
+## Estado del Arte
+### Métodos y Tecnologías Clave
+- **Audífonos de bajo costo y personalizables:** Dispositivos como LoCHAid minimizan costos usando impresión 3D y electrónica básica.
+- **Digitalización del proceso de adaptación:** El escaneo 3D mejora la personalización de audífonos.
+- **Optimización del diseño:** Software especializado permite generar modelos de audífonos en minutos.
+
+### Innovaciones en Diseño y Personalización
+- **Prototipos basados en antropometría 3D:** Facilitan ajustes personalizados.
+- **Audífonos personalizados de canal profundo:** Mejoran la comodidad gracias a escaneo 3D avanzado.
+
+### Percepción del Usuario
+- **Experiencia del usuario:** Materiales y diseño afectan la aceptación.
+- **Preferencias estéticas y funcionales:** Se enfatiza la importancia de dispositivos ergonómicos y personalizados.
+
+## Requerimientos de Diseño
+1. **Adaptación personalizada:** Uso de escaneo digital para garantizar precisión anatómica.
+2. **Ajuste ergonómico:** Diseños optimizados para la comodidad del usuario.
+3. **Materiales biocompatibles:** PLA y silicona garantizan seguridad y confort.
+4. **Resistencia y durabilidad:** Pruebas aseguran robustez en uso diario.
+5. **Ligereza:** Miniaturización para mayor aceptación.
+6. **Fácilmente reproducible:** Uso de impresión 3D para eficiencia y reducción de costos.
+7. **Compatibilidad con electrónica:** Diseño que permite integrar componentes internos sin comprometer ergonomía.
+
+## Materiales
+- **PLA:** Utilizado para la base del molde y compartimento electrónico.
+- **Silicona:** Material biocompatible que garantiza flexibilidad y confort.
+- **Inventor:** Software utilizado para el modelado 3D.
+
+## Procedimiento
+1. **Escaneo 3D de la oreja del usuario** con tecnología Handyscan.
+2. **Procesamiento en Inventor e impresión 3D** del molde base.
+3. **Mezcla y vertido de silicona** sobre el modelo impreso.
+4. **Ajuste en los ejes XYZ** para definir el compartimento electrónico.
+5. **Solidificación y extracción** de la prótesis.
+6. **Acabados finales** para suavizar la superficie.
+7. **Diseño e impresión 3D de la tapa** y ensamblaje final.
+
+## Resultados
+### Pruebas iniciales con silicona
+| SILICONA | Prueba 1 | Prueba 2 | Prueba 3 | Prueba 4 | Prueba 5 |
+|----------|----------|----------|----------|----------|----------|
+| **FXA**  | 5 ml    | 6 ml    | 3 ml    | 7 ml    | 4 ml    |
+| **FXB**  | 5 ml    | 4 ml    | 7 ml    | 3 ml    | 6 ml    |
+| **Resultados** | Inconsistente | No resistente | Resistente, tiempo mayor | No resistente | Resistente, menor tiempo |
+
+La mejor combinación de silicona fue **Prueba 5 (4 ml FXA y 6 ml FXB)** por su resistencia y solidificación rápida.
+
+### Diseño y Fabricación
+- **Molde en PLA:** Herramienta para crear compartimentos electrónicos en la prótesis.
+- **Tapa en PLA:** Área de 454 mm² para componentes electrónicos.
+- **Implementación final:** La integración del molde y la silicona garantizó un ajuste preciso y ergonómico.
+
+## Conclusiones
+- La prótesis desarrollada es anatómicamente adaptable y cómoda para el usuario.
+- Los materiales empleados garantizan resistencia y ligereza.
+- El procedimiento de fabricación con impresión 3D y silicona es una opción eficiente y escalable.
+
+## Limitaciones
+- Necesidad de mejorar la estética y acabado de la silicona.
+- Optimización de la integración entre silicona y PLA para un mejor ajuste con la electrónica interna.
+
+## Referencias
+1. [World Health Organization (WHO)](https://www.who.int/es/news-room/fact-sheets/detail/deafness-and-hearing-loss)
+2. [National Institute of Aging](https://www.nia.nih.gov/espanol/audicion-perdida-audicion/perdida-audicion-problema-comun-adultos-mayores)
+3. [PLOS: LoCHAid](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238922)
+4. [Material Today: 3D Scanning](https://doi.org/10.1016/j.matpr.2022.09.536)
+5. [3D Printing: A Maturing Technology](https://doi.org/10.3182/20130522-3-br-4036.00112)
+6. [Human Systems Engineering](https://doi.org/10.1007/978-3-030-27928-8)
+7. [Hearing Balance Academy](https://hearing-balance.academy/wp-content/uploads/2022/02/Article_Traynor_Differentiation_Jan2022HR_WEB.pdf)
+8. [American Journal of Audiology](https://doi.org/10.1044/2024_aja-23-00245)
+9. [Applied Ergonomics](https://doi.org/10.1016/j.apergo.2021.103640)
+10. [System Dissa: Biocompatibilidad y PLA](https://systemdissa.com/technology/biocompatibilidad-y-pla/)
+11. [Siliconas Médicas - Zhermack](https://www.zhermack.com/es/product_category/bienestar/siliconas-para-el-sector-medico/)
+
+---
+
+Este documento describe el desarrollo de **FlexiHear**, una prótesis auditiva personalizada basada en impresión 3D, enfocada en mejorar la accesibilidad y adaptabilidad para personas con pérdida auditiva.
+
