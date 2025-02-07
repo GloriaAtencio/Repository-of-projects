@@ -3,6 +3,7 @@
 <p align="center">
   <img src="ISB/Laboratorios/Imágenes/uno.png" alt="fotog" width="460" height="400"/>
 </p>
+
 ### Autores:
 - **Atencio Inga, Gloria Elvira**
 - **Aponte Diaz, Janella Kiomi**
