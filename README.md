@@ -1,8 +1,8 @@
 # Repository-of-projects
-Compilation of projects developed during my training in Biomedical Engineering at UPCH and PUCP. Each project seeks to innovate in the health sector through technology and applied knowledge, improving medical care and user well-being.
+Recopilación de proyectos desarrollados durante mi formación en Ingeniería Biomédica. Cada proyecto busca innovar en el sector salud a través de la tecnología y el conocimiento aplicado, mejorando la atención médica y el bienestar de los usuarios.
 
 # **Gloria Elvira Atencio Inga**
-Estudiante de 9no ciclo de la carrera de Ingeniería Biomédica PUCP-UPCH, mi área de interes es la Ingeniería de Tejidos y la fabricación aditiva.  Mi pasión por este campo se centra en la creación y ejecución de soluciones innovadoras que puedan mejorar la atención médica y contribuir al avance tecnológico en el sector de la salud. Correo personal: gloria.atencio@upch.pe
+Soy estudiante de 9no ciclo de la carrera de Ingeniería Biomédica en la Pontificia Universidad Católica del Perú (PUCP) y la Universidad Peruana Cayetano Heredia (UPCH). Mis principales áreas de interés son la Ingeniería de Tejidos y la Fabricación Digital. Mi pasión se centra en la investigación, desarrollo y aplicación de soluciones innovadoras que puedan mejorar la atención médica y contribuir al avance tecnológico en el sector de la salud.  Correo personal: gloria.atencio@upch.pe
 
 <p align="center">
   <img src="https://github.com/GloriaAtencio/ISBIO_2024_G1/blob/7695003f7c5745627517a70e5f102b08bc000a73/ISB/Laboratorios/Im%C3%A1genes/gloria.jpeg" alt="fotog" width="220" height="300"/>
