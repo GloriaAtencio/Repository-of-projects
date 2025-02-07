@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/GloriaAtencio/ISBIO_2024_G1/blob/7695003f7c5745627517a70e5f102b08bc000a73/ISB/Laboratorios/Im%C3%A1genes/uno.png" alt="fotog" width="220" height="300"/>
+  <img src="https://github.com/GloriaAtencio/ISBIO_2024_G1/blob/7695003f7c5745627517a70e5f102b08bc000a73/ISB/Laboratorios/Im%C3%A1genes/gloria.png" alt="fotog" width="220" height="300"/>
 </p>   
 
 ### Autores:
