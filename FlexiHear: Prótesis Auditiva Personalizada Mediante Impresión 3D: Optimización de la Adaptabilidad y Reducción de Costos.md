@@ -124,7 +124,7 @@ Según las pruebas realizadas para optimizar las proporciones de silicona, se co
 Se  diseñó y fabricó un molde funcional utilizando material PLA, que sirvió como herramienta  para moldear la silicona en estado líquido y crear el compartimento destinado a los componentes electrónicos de la prótesis auditiva. Este proceso involucró el modelado 3D en inventor de las piezas,  la impresión 3D y ensamblado de las piezas.
 
 <p align="center">
-  <img src="https://github.com/GloriaAtencio/ISBIO_2024_G1/blob/main/ISB/Laboratorios/Im%C3%A1genes/dos.png?raw=true" alt="fotog" width="300" height="500"/>
+  <img src="https://github.com/GloriaAtencio/ISBIO_2024_G1/blob/main/ISB/Laboratorios/Im%C3%A1genes/dos.png?raw=true" alt="fotog" width="500" height="300"/>
 </p>   
 
 ## Diseño y Fabricación de la tapa en PLA
