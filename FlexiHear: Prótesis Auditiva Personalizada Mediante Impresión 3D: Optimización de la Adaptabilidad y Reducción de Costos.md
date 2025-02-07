@@ -1,6 +1,8 @@
 # FlexiHear
 # **Prótesis Auditiva Personalizada Mediante Impresión 3D: Optimización de la Adaptabilidad y Reducción de Costos**
-
+<p align="center">
+  <img src="https://github.com/GloriaAtencio/ISBIO_2024_G1/assets/164522281/8f3df861-76be-40f3-86c8-333396259770" alt="fotog" width="460" height="400"/>
+</p>
 ### Autores:
 - **Atencio Inga, Gloria Elvira**
 - **Aponte Diaz, Janella Kiomi**
