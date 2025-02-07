@@ -106,6 +106,7 @@ Con la prótesis extraída, se realizan los **acabados finales**, como el lijado
 
 ## 7. Diseño e impresión de la tapa y ensamblaje
 Finalmente, se diseña e imprime en 3D la **tapa** que cubrirá los componentes electrónicos para después ensamblar todas las piezas, incluida la carcasa de silicona, y completar la prótesis auditiva personalizada.
+
 ---
 
 # Resultados
@@ -122,8 +123,21 @@ Según las pruebas realizadas para optimizar las proporciones de silicona, se co
 ## Diseño y Fabricación del Molde en PLA
 Se  diseñó y fabricó un molde funcional utilizando material PLA, que sirvió como herramienta  para moldear la silicona en estado líquido y crear el compartimento destinado a los componentes electrónicos de la prótesis auditiva. Este proceso involucró el modelado 3D en inventor de las piezas,  la impresión 3D y ensamblado de las piezas.
 
+<p align="center">
+  <img src="https://github.com/GloriaAtencio/ISBIO_2024_G1/blob/main/ISB/Laboratorios/Im%C3%A1genes/dos.png?raw=true" alt="fotog" width="500" height="500"/>
+</p>   
+
 ## Diseño y Fabricación de la tapa en PLA
 El diseño de la tapa se realizó también mediante modelado 3D. El diseño cuenta con un área de 454 mm², garantizando espacio suficiente para los componentes electrónicos y asegurando la biocompatibilidad con el molde de silicona. 
+
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/353103cf-2e38-42ef-b757-8b3ddd4c15cb)
+" alt="fotog" width="500" height="500"/>
+</p>  
+
+La imagen muestra la tapa impresa en 3D, junto con su implementación en moldes de silicona que replican la anatomía del oído humano. El resultado evidencia un ajuste preciso y ergonómico.
+Las pruebas finales de implementación verificaron la funcionalidad y adaptabilidad del diseño, permitiendo alojar los componentes internos de manera eficiente y sin comprometer la estructura general de la prótesis auditiva.
+
 ---
 # Conclusiones
 - La prótesis desarrollada cumplió con los objetivos de adaptabilidad anatómica y comodidad para el usuario. Además, los materiales empleados (PLA y silicona) demostraron ser resistentes y ligeros, características clave para el uso prolongado.
