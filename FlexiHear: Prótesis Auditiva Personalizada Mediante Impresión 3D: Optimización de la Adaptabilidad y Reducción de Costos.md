@@ -1,7 +1,7 @@
 # FlexiHear
 # **Prótesis Auditiva Personalizada Mediante Impresión 3D: Optimización de la Adaptabilidad y Reducción de Costos**
 <p align="center">
-  <img src="https://github.com/GloriaAtencio/ISB/Laboratorios/Imagenes/uno.png" alt="fotog" width="960" height="450"/>
+  <img src="https://github.com/GloriaAtencio/ISBIO_2024_G1/Laboratorios/Imagenes/uno.png" alt="fotog" width="960" height="450"/>
 </p>
 
 <p align="center">
